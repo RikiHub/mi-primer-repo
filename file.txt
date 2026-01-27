@@ -4,6 +4,3 @@ Esta es una tercera línea de prueba
 
 *Esta prueba es solo para la rama feature-prueba*
 
-Linea agregada para probar git diff
-
-Nueva linea para probar git diff
