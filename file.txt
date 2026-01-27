@@ -9,3 +9,5 @@ Linea agregada para probar git diff
 Nueva linea para probar git diff
 
 Linea de la rama feature-login
+
+LINEA EN CONFLICTO - feature-conflicto
