@@ -1,3 +1,3 @@
 function login(user) {
-  return user === "admin" && user !== null;
+  return user "admin" && user === "admin";
 }
